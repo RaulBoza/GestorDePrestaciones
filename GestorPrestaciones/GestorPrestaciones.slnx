@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../GestorPrestacionesWeb/GestorPrestacionesWeb.csproj" Id="bcdce7ac-7966-4366-9b5a-90134df71a3a" />
+  <Project Path="GestorPrestaciones.csproj" />
+</Solution>
