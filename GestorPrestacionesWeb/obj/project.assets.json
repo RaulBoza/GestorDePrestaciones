@@ -2603,11 +2603,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rakim\\Documents\\GitHub\\EOI_NET_TESTING\\ExercicesReview\\GestorPrestacionesWeb\\GestorPrestacionesWeb.csproj",
+      "projectUniqueName": "C:\\Users\\rakim\\Documents\\GitHub\\GestorDePrestaciones\\GestorPrestacionesWeb\\GestorPrestacionesWeb.csproj",
       "projectName": "GestorPrestacionesWeb",
-      "projectPath": "C:\\Users\\rakim\\Documents\\GitHub\\EOI_NET_TESTING\\ExercicesReview\\GestorPrestacionesWeb\\GestorPrestacionesWeb.csproj",
+      "projectPath": "C:\\Users\\rakim\\Documents\\GitHub\\GestorDePrestaciones\\GestorPrestacionesWeb\\GestorPrestacionesWeb.csproj",
       "packagesPath": "C:\\Users\\rakim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rakim\\Documents\\GitHub\\EOI_NET_TESTING\\ExercicesReview\\GestorPrestacionesWeb\\obj\\",
+      "outputPath": "C:\\Users\\rakim\\Documents\\GitHub\\GestorDePrestaciones\\GestorPrestacionesWeb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2629,8 +2629,8 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\rakim\\Documents\\GitHub\\EOI_NET_TESTING\\ExercicesReview\\GestorPrestaciones\\GestorPrestaciones.csproj": {
-              "projectPath": "C:\\Users\\rakim\\Documents\\GitHub\\EOI_NET_TESTING\\ExercicesReview\\GestorPrestaciones\\GestorPrestaciones.csproj"
+            "C:\\Users\\rakim\\Documents\\GitHub\\GestorDePrestaciones\\GestorPrestaciones\\GestorPrestaciones.csproj": {
+              "projectPath": "C:\\Users\\rakim\\Documents\\GitHub\\GestorDePrestaciones\\GestorPrestaciones\\GestorPrestaciones.csproj"
             }
           }
         }

@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\rakim\\Documents\\GitHub\\EOI_NET_TESTING\\ExercicesReview\\GestorPrestaciones\\",
+  "WorkspaceRootPath": "C:\\Users\\rakim\\Documents\\GitHub\\GestorDePrestaciones\\GestorPrestaciones\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BCDCE7AC-7966-4366-9B5A-90134DF71A3A}|..\\GestorPrestacionesWeb\\GestorPrestacionesWeb.csproj|c:\\users\\rakim\\documents\\github\\eoi_net_testing\\exercicesreview\\gestorprestacionesweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88B6A2B7-588F-07DD-D54B-E48E0F56D8B5}|GestorPrestaciones.csproj|c:\\users\\rakim\\documents\\github\\gestordeprestaciones\\gestorprestaciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B6A2B7-588F-07DD-D54B-E48E0F56D8B5}|GestorPrestaciones.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rakim\\Documents\\GitHub\\EOI_NET_TESTING\\ExercicesReview\\GestorPrestacionesWeb\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,14 +55,25 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\rakim\\Documents\\GitHub\\EOI_NET_TESTING\\ExercicesReview\\GestorPrestacionesWeb\\Program.cs",
-              "RelativeDocumentMoniker": "..\\GestorPrestacionesWeb\\Program.cs",
-              "ToolTip": "C:\\Users\\rakim\\Documents\\GitHub\\EOI_NET_TESTING\\ExercicesReview\\GestorPrestacionesWeb\\Program.cs",
-              "RelativeToolTip": "..\\GestorPrestacionesWeb\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAARAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\rakim\\Documents\\GitHub\\GestorDePrestaciones\\GestorPrestaciones\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rakim\\Documents\\GitHub\\GestorDePrestaciones\\GestorPrestaciones\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T10:20:53.319Z",
+              "WhenOpened": "2026-06-15T10:13:26.604Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rakim\\Documents\\GitHub\\EOI_NET_TESTING\\ExercicesReview\\GestorPrestacionesWeb\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\EOI_NET_TESTING\\ExercicesReview\\GestorPrestacionesWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\rakim\\Documents\\GitHub\\EOI_NET_TESTING\\ExercicesReview\\GestorPrestacionesWeb\\Program.cs",
+              "RelativeToolTip": "..\\..\\EOI_NET_TESTING\\ExercicesReview\\GestorPrestacionesWeb\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T10:20:53.319Z"
             }
           ]
         }

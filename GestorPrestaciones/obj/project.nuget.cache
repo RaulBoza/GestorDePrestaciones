@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TpbrvITKHg4=",
+  "dgSpecHash": "vMvt94uxbWM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\rakim\\Documents\\GitHub\\EOI_NET_TESTING\\ExercicesReview\\GestorPrestaciones\\GestorPrestaciones.csproj",
+  "projectFilePath": "C:\\Users\\rakim\\Documents\\GitHub\\GestorDePrestaciones\\GestorPrestaciones\\GestorPrestaciones.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rakim\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\rakim\\.nuget\\packages\\microsoft.build.framework\\18.0.2\\microsoft.build.framework.18.0.2.nupkg.sha512",

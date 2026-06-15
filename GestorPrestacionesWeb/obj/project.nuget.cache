@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QWfQLHOZun8=",
+  "dgSpecHash": "9X3OBeRc1Z0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\rakim\\Documents\\GitHub\\EOI_NET_TESTING\\ExercicesReview\\GestorPrestacionesWeb\\GestorPrestacionesWeb.csproj",
+  "projectFilePath": "C:\\Users\\rakim\\Documents\\GitHub\\GestorDePrestaciones\\GestorPrestacionesWeb\\GestorPrestacionesWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rakim\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\rakim\\.nuget\\packages\\microsoft.build.framework\\18.0.2\\microsoft.build.framework.18.0.2.nupkg.sha512",
@@ -45,9 +45,9 @@
       "code": "NU1510",
       "level": "Warning",
       "message": "PackageReference Microsoft.Extensions.Caching.Abstractions no se eliminará. Considere la posibilidad de quitar este paquete de las dependencias, ya que es probable que no sea necesario.",
-      "projectPath": "C:\\Users\\rakim\\Documents\\GitHub\\EOI_NET_TESTING\\ExercicesReview\\GestorPrestacionesWeb\\GestorPrestacionesWeb.csproj",
+      "projectPath": "C:\\Users\\rakim\\Documents\\GitHub\\GestorDePrestaciones\\GestorPrestacionesWeb\\GestorPrestacionesWeb.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\rakim\\Documents\\GitHub\\EOI_NET_TESTING\\ExercicesReview\\GestorPrestacionesWeb\\GestorPrestacionesWeb.csproj",
+      "filePath": "C:\\Users\\rakim\\Documents\\GitHub\\GestorDePrestaciones\\GestorPrestacionesWeb\\GestorPrestacionesWeb.csproj",
       "libraryId": "Microsoft.Extensions.Caching.Abstractions",
       "targetGraphs": [
         "net10.0"
@@ -57,9 +57,9 @@
       "code": "NU1510",
       "level": "Warning",
       "message": "PackageReference Microsoft.Extensions.DependencyInjection.Abstractions no se eliminará. Considere la posibilidad de quitar este paquete de las dependencias, ya que es probable que no sea necesario.",
-      "projectPath": "C:\\Users\\rakim\\Documents\\GitHub\\EOI_NET_TESTING\\ExercicesReview\\GestorPrestacionesWeb\\GestorPrestacionesWeb.csproj",
+      "projectPath": "C:\\Users\\rakim\\Documents\\GitHub\\GestorDePrestaciones\\GestorPrestacionesWeb\\GestorPrestacionesWeb.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\rakim\\Documents\\GitHub\\EOI_NET_TESTING\\ExercicesReview\\GestorPrestacionesWeb\\GestorPrestacionesWeb.csproj",
+      "filePath": "C:\\Users\\rakim\\Documents\\GitHub\\GestorDePrestaciones\\GestorPrestacionesWeb\\GestorPrestacionesWeb.csproj",
       "libraryId": "Microsoft.Extensions.DependencyInjection.Abstractions",
       "targetGraphs": [
         "net10.0"
@@ -69,9 +69,9 @@
       "code": "NU1510",
       "level": "Warning",
       "message": "PackageReference Microsoft.Extensions.Configuration.Abstractions no se eliminará. Considere la posibilidad de quitar este paquete de las dependencias, ya que es probable que no sea necesario.",
-      "projectPath": "C:\\Users\\rakim\\Documents\\GitHub\\EOI_NET_TESTING\\ExercicesReview\\GestorPrestacionesWeb\\GestorPrestacionesWeb.csproj",
+      "projectPath": "C:\\Users\\rakim\\Documents\\GitHub\\GestorDePrestaciones\\GestorPrestacionesWeb\\GestorPrestacionesWeb.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\rakim\\Documents\\GitHub\\EOI_NET_TESTING\\ExercicesReview\\GestorPrestacionesWeb\\GestorPrestacionesWeb.csproj",
+      "filePath": "C:\\Users\\rakim\\Documents\\GitHub\\GestorDePrestaciones\\GestorPrestacionesWeb\\GestorPrestacionesWeb.csproj",
       "libraryId": "Microsoft.Extensions.Configuration.Abstractions",
       "targetGraphs": [
         "net10.0"
