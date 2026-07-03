@@ -26,7 +26,7 @@ namespace GestorPrestaciones
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlite(@"Data Source=C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\GestorPrestaciones\gestorprestaciones.db");    
+            optionsBuilder.UseSqlite(@"Data Source=C:\Users\rakim\Documents\GitHub\GestorDePrestaciones\GestorPrestaciones\gestorprestaciones.db");    
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
