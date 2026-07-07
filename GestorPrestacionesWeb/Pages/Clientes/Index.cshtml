@@ -50,19 +50,19 @@
 										</tr>
 									</thead>
 									<tbody>
-							@foreach (var c in Model.Clientes)
-							{
-								<tr class="position-relative clickable-row" tabindex="0" data-href='@Url.Page("/Clientes/DetallesCliente", new { id = c.Id })'>
-												<td>
+									@foreach (var c in Model.Clientes)
+									{
+										<tr class="position-relative clickable-row" tabindex="0" data-href='@Url.Page("/Clientes/DetallesCliente", new { id = c.Id })'>
+											<td>
 													@c.Nombre
 													<a asp-page="./DetallesCliente" asp-route-id="@c.Id" class="stretched-link" aria-label="Ver detalles de @c.Nombre"></a>
-												</td>
-												<td>@c.Apellidos</td>
-												<td>@c.DNI</td>
-												<td>@c.FechaNacimiento.ToString("dd/MM/yyyy")</td>
-												<td>@c.Sexo</td>
-											</tr>
-										}
+											</td>
+											<td>@c.Apellidos</td>
+											<td>@c.DNI</td>
+											<td>@c.FechaNacimiento.ToString("dd/MM/yyyy")</td>
+											<td>@c.Sexo</td>
+										</tr>
+									}
 									</tbody>
 								</table>
 							</div>
