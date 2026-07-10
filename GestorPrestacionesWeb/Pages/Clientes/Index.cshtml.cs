@@ -15,7 +15,7 @@ namespace GestorPrestacionesWeb.Pages.Clientes
         {
             _servicios = servicios;
         }
-
+        
         public async Task OnGetAsync()
         {
             Clientes = await _servicios.ListaClientes();
