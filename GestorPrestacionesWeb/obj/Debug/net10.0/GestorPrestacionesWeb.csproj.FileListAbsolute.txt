@@ -426,8 +426,6 @@ C:\Users\rakim\Documents\GitHub\GestorDePrestaciones\GestorPrestacionesWeb\obj\D
 C:\Users\rakim\Documents\GitHub\GestorDePrestaciones\GestorPrestacionesWeb\obj\Debug\net10.0\compressed\mfktl05kdh-{0}-muycvpuwrr-muycvpuwrr.gz
 C:\Users\rakim\Documents\GitHub\GestorDePrestaciones\GestorPrestacionesWeb\obj\Debug\net10.0\compressed\z82h8hsw4a-{0}-87fc7y1x7t-87fc7y1x7t.gz
 C:\Users\rakim\Documents\GitHub\GestorDePrestaciones\GestorPrestacionesWeb\obj\Debug\net10.0\compressed\1hhv278b3z-{0}-mlv21k5csn-mlv21k5csn.gz
-C:\Users\rakim\Documents\GitHub\GestorDePrestaciones\GestorPrestacionesWeb\obj\Debug\net10.0\compressed\ykohwquym3-{0}-dl63ugs73k-dl63ugs73k.gz
-C:\Users\rakim\Documents\GitHub\GestorDePrestaciones\GestorPrestacionesWeb\obj\Debug\net10.0\compressed\p96hh64rkc-{0}-dl63ugs73k-dl63ugs73k.gz
 C:\Users\rakim\Documents\GitHub\GestorDePrestaciones\GestorPrestacionesWeb\obj\Debug\net10.0\staticwebassets.build.json
 C:\Users\rakim\Documents\GitHub\GestorDePrestaciones\GestorPrestacionesWeb\obj\Debug\net10.0\staticwebassets.build.json.cache
 C:\Users\rakim\Documents\GitHub\GestorDePrestaciones\GestorPrestacionesWeb\obj\Debug\net10.0\staticwebassets.development.json
@@ -440,3 +438,5 @@ C:\Users\rakim\Documents\GitHub\GestorDePrestaciones\GestorPrestacionesWeb\obj\D
 C:\Users\rakim\Documents\GitHub\GestorDePrestaciones\GestorPrestacionesWeb\obj\Debug\net10.0\GestorPrestacionesWeb.pdb
 C:\Users\rakim\Documents\GitHub\GestorDePrestaciones\GestorPrestacionesWeb\obj\Debug\net10.0\GestorPrestacionesWeb.genruntimeconfig.cache
 C:\Users\rakim\Documents\GitHub\GestorDePrestaciones\GestorPrestacionesWeb\obj\Debug\net10.0\ref\GestorPrestacionesWeb.dll
+C:\Users\rakim\Documents\GitHub\GestorDePrestaciones\GestorPrestacionesWeb\obj\Debug\net10.0\compressed\ykohwquym3-{0}-tnpcpo6zqm-tnpcpo6zqm.gz
+C:\Users\rakim\Documents\GitHub\GestorDePrestaciones\GestorPrestacionesWeb\obj\Debug\net10.0\compressed\p96hh64rkc-{0}-tnpcpo6zqm-tnpcpo6zqm.gz

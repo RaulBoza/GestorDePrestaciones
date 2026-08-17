@@ -7,10 +7,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{BCDCE7AC-7966-4366-9B5A-90134DF71A3A}|..\\GestorPrestacionesWeb\\GestorPrestacionesWeb.csproj|c:\\users\\rakim\\documents\\github\\gestordeprestaciones\\gestorprestacionesweb\\pages\\clientes\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88B6A2B7-588F-07DD-D54B-E48E0F56D8B5}|GestorPrestaciones.csproj|c:\\users\\rakim\\documents\\github\\gestordeprestaciones\\gestorprestaciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88B6A2B7-588F-07DD-D54B-E48E0F56D8B5}|GestorPrestaciones.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,49 +16,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\rakim\\Documents\\GitHub\\GestorDePrestaciones\\GestorPrestaciones\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\rakim\\Documents\\GitHub\\GestorDePrestaciones\\GestorPrestaciones\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-03T08:43:17.332Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\rakim\\Documents\\GitHub\\GestorDePrestaciones\\GestorPrestacionesWeb\\Pages\\Clientes\\Create.cshtml",
-              "RelativeDocumentMoniker": "..\\GestorPrestacionesWeb\\Pages\\Clientes\\Create.cshtml",
-              "ToolTip": "C:\\Users\\rakim\\Documents\\GitHub\\GestorDePrestaciones\\GestorPrestacionesWeb\\Pages\\Clientes\\Create.cshtml",
-              "RelativeToolTip": "..\\GestorPrestacionesWeb\\Pages\\Clientes\\Create.cshtml",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAYwE8AAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-07T09:57:50.304Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\rakim\\Documents\\GitHub\\GestorDePrestaciones\\GestorPrestacionesWeb\\Pages\\Clientes\\Create.cshtml.cs",
-              "RelativeDocumentMoniker": "..\\GestorPrestacionesWeb\\Pages\\Clientes\\Create.cshtml.cs",
-              "ToolTip": "C:\\Users\\rakim\\Documents\\GitHub\\GestorDePrestaciones\\GestorPrestacionesWeb\\Pages\\Clientes\\Create.cshtml.cs",
-              "RelativeToolTip": "..\\GestorPrestacionesWeb\\Pages\\Clientes\\Create.cshtml.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBoAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-03T08:56:50.825Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:519925012:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
@@ -94,6 +49,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\rakim\\Documents\\GitHub\\GestorDePrestaciones\\GestorPrestacionesWeb\\Pages\\Clientes\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\GestorPrestacionesWeb\\Pages\\Clientes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\rakim\\Documents\\GitHub\\GestorDePrestaciones\\GestorPrestacionesWeb\\Pages\\Clientes\\Create.cshtml",
+              "RelativeToolTip": "..\\GestorPrestacionesWeb\\Pages\\Clientes\\Create.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAwwDkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-17T10:46:29.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\rakim\\Documents\\GitHub\\GestorDePrestaciones\\GestorPrestacionesWeb\\Pages\\Clientes\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "..\\GestorPrestacionesWeb\\Pages\\Clientes\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\rakim\\Documents\\GitHub\\GestorDePrestaciones\\GestorPrestacionesWeb\\Pages\\Clientes\\Create.cshtml.cs",
+              "RelativeToolTip": "..\\GestorPrestacionesWeb\\Pages\\Clientes\\Create.cshtml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T10:46:27.468Z",
+              "EditorCaption": ""
             }
           ]
         }

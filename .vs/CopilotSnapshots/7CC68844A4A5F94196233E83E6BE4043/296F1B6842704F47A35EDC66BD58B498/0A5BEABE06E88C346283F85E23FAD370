@@ -1,4 +1,4 @@
-@page
+﻿@page
 @model GestorPrestacionesWeb.Pages.Clientes.CreateModel
 @using GestorPrestaciones
 @{
@@ -39,11 +39,11 @@
 			<div class="col-md-6">
 				<div class="mb-3">
 					<label for="Cliente_Sexo" class="form-label">Sexo</label>
-					<select asp-for="Cliente.Sexo" class="form-select" id="Cliente_Sexo">
+					<select asp-for="Cliente.Genero" class="form-select" id="Cliente_Sexo">
 						<option value="Masculino">Masculino</option>
 						<option value="Femenino">Femenino</option>
 					</select>
-					<span asp-validation-for="Cliente.Sexo" class="text-danger"></span>
+					<span asp-validation-for="Cliente.Genero" class="text-danger"></span>
 				</div>
 			</div>
 		</div>

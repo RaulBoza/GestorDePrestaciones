@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GestorPrestacionesWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b7b33cbb7ca3f40a4c02a0b59eec4c1fb2a0b37")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fab78a4279ff3db9581fbfd4de097e6128c0db7")]
 [assembly: System.Reflection.AssemblyProductAttribute("GestorPrestacionesWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GestorPrestacionesWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
