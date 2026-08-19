@@ -1,4 +1,4 @@
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using GestorPrestaciones;
 
@@ -12,6 +12,7 @@ namespace GestorPrestacionesWeb.Pages.Clientes
 
         [BindProperty]
         public Cliente Cliente { get; set; }
+
         public List<Trabajo> TrabajoOptions { get; set; }
 
         public CreateModel(ServiciosCliente servicios, ServiciosTrabajo serviciosTrabajo)
@@ -44,13 +45,17 @@ namespace GestorPrestacionesWeb.Pages.Clientes
                 var keyFin = $"trabajo_fin_{i}";
 
                 // Parsear fechas
-                var intervaloTrabajo = new IntervaloTrabajo();
+                var intervaloFecha = new IntervaloFecha();
                 if (Request.Form.ContainsKey(keyInicio) && DateOnly.TryParse(Request.Form[keyInicio], out var fechaInicio))
-                    intervaloTrabajo.Inicio = fechaInicio;
+                    intervaloFecha.Inicio = fechaInicio;
 
                 if (Request.Form.ContainsKey(keyFin) && DateOnly.TryParse(Request.Form[keyFin], out var fechaFin))
-                    intervaloTrabajo.Fin = fechaFin;
+                    intervaloFecha.Fin = fechaFin;
 
+                var intervaloTrabajo = new IntervaloTrabajo 
+                { 
+                    Intervalo = intervaloFecha 
+                };
 
                 // Determinar si es trabajo existente o nuevo
                 if (!string.IsNullOrEmpty(seleccion) && seleccion != "0" && int.TryParse(seleccion, out var trabajoId) && trabajoId > 0)
@@ -88,22 +93,24 @@ namespace GestorPrestacionesWeb.Pages.Clientes
                 var keyFin = $"baja_fin_{i}";
 
                 // Parsear fechas
-                var intervaloBaja = new IntervaloBaja();
+                var intervaloFecha = new IntervaloFecha();
                 if (Request.Form.ContainsKey(keyInicio) && DateOnly.TryParse(Request.Form[keyInicio], out var fechaInicio))
-                    intervaloBaja.Inicio = fechaInicio;
+                    intervaloFecha.Inicio = fechaInicio;
 
                 if (Request.Form.ContainsKey(keyFin) && DateOnly.TryParse(Request.Form[keyFin], out var fechaFin))
-                    intervaloBaja.Fin = fechaFin;
+                    intervaloFecha.Fin = fechaFin;
 
+                var intervaloBaja = new IntervaloBaja 
+                { 
+                    IntervaloFecha = intervaloFecha,
+                    Tipo = IntervaloBaja.TipoBaja.noseque
+                };
 
                 bajas.Add(intervaloBaja);
             }
 
-            
             // Crear el cliente con todos sus datos relacionados
-            Cliente.Trabajos = trabajos;
-            Cliente.BajasLaborales = bajas;
-            await _servicios.CrearCliente(Cliente);
+            await _servicios.CrearClienteCompleto(Cliente, trabajos, bajas);
 
             return RedirectToPage("Index");
         }
